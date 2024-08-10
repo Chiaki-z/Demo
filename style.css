@@ -1,0 +1,21 @@
+*{
+    @font-face {
+        font-family:
+        src: url("font/SourceSansPro-Light.ttf");
+    }
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color: black;
+}
+
+.header{
+    display: flex;
+    width: 800px;
+
+}
+.m1{
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+}
